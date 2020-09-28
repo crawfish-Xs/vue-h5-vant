@@ -1,5 +1,8 @@
 # vue-init 小龙虾
 
+# 基于vue-cli搭建，集成所有基础包
+# vant UI组件 rem
+
 ## Project setup
 
 ```
